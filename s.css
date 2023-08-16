@@ -1,6 +1,6 @@
 body {
     color:white;
-    background-image: url("universe.jpg");
+    background-image: url("galaxy.gif");
     background-size: cover;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
@@ -10,6 +10,14 @@ body {
     background: white;
     border: none;
     font-family: inherit;
+}
+.spn{
+    border-bottom: 1px solid white;
+    padding-bottom: 4px;
+}
+#logo
+{
+    width: 100px;
 }
 
 
