@@ -18,6 +18,10 @@ body {
     color: #82a5ca;
     font-weight: bold;/*Or we can give the value in it*/
 }
+#shadow
+{
+    text-shadow: 0px 0px 10px black;
+}
 .spn{
     border-bottom: 1px solid white;
     padding-bottom: 4px;
