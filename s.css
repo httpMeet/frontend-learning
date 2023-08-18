@@ -1,5 +1,5 @@
 body {
-    color:white;
+    color:#82a5ca;
     background-image: url("galaxy.gif");
     background-size: cover;
     text-align: center;
@@ -10,6 +10,8 @@ body {
     background: white;
     border: none;
     font-family: inherit;
+    color: #82a5ca;
+    font-weight: bold;/*Or we can give the value in it*/
 }
 .spn{
     border-bottom: 1px solid white;
