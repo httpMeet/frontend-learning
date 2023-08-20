@@ -65,23 +65,20 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("happy.gif");
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+    background-image: url("hot.gif");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("genius.gif");
+    background-size: cover;
 }
 
 #gift-img-badass:hover {
-    background-image: url("images/badass.gif");
-}
-
-#gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("badas.webp");
 }
 
 #footer {
