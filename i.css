@@ -1,0 +1,12 @@
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*flex-direction: column;*/
+  }
+
+  /*.logout{
+     align-self: flex-end;
+  }*/
+  
