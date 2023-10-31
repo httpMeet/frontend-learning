@@ -3,9 +3,12 @@ h1 {
 }
 body{
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  background-color:  green;
+  background-image: url("Blackjack.webp");
   text-align: center;
   color: white;
+  height: 100%;
+  background-position: center;
+  background-size: cover;
   font-weight: bold;
 }
 #messge-el{
